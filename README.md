@@ -1,2 +1,2 @@
 # CPP-Giris
-C++ Dilinde Yaptığım Basit Projeler(First Projects)
+C++ Dilinde Yaptığım Basit Projeler(Simple Projects)
